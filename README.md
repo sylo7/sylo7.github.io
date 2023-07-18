@@ -1,6 +1,6 @@
 ## Demos + Videos
 
-(https://www.youtube.com/watch?v=bYwLi66_j_I)[Lawrence Technological University App Video]
+[Lawrence Technological University App Video](https://www.youtube.com/watch?v=bYwLi66_j_I)
 
 (https://silent-hill-4821.fly.dev/)[Housing Helper Demo]
 
