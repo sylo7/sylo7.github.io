@@ -1,4 +1,3 @@
-# Syed's Blog
 
 ## Demos + Videos
 
