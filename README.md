@@ -2,10 +2,10 @@
 
 [Lawrence Technological University App Video](https://www.youtube.com/watch?v=bYwLi66_j_I)
 
-(https://silent-hill-4821.fly.dev/)[Housing Helper Demo]
+[Housing Helper Demo](https://silent-hill-4821.fly.dev/)
 
-(https://www.youtube.com/watch?v=hpoQlvKWSj0)[Housing Helper Video]
+[Housing Helper Video](https://www.youtube.com/watch?v=hpoQlvKWSj0)
 
-(https://www.youtube.com/playlist?list=PLEJXw7GkeLZ4IaOccHAVMJGnedzi6ld5q)[Go CLI Tools]
+[Go CLI Tools](https://www.youtube.com/playlist?list=PLEJXw7GkeLZ4IaOccHAVMJGnedzi6ld5q)
 
 ## Blog Posts
