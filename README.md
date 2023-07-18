@@ -6,6 +6,6 @@
 
 [Housing Helper Video](https://www.youtube.com/watch?v=hpoQlvKWSj0)
 
-[Go CLI Tools](https://www.youtube.com/playlist?list=PLEJXw7GkeLZ4IaOccHAVMJGnedzi6ld5q)
+[Go CLI Tools Playlist](https://www.youtube.com/playlist?list=PLEJXw7GkeLZ4IaOccHAVMJGnedzi6ld5q)
 
 ## Blog Posts
